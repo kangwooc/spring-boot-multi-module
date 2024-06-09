@@ -1,0 +1,4 @@
+rootProject.name = 'spring-multi-module-example'
+
+include 'library'
+include 'application'
